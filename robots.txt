@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karpov-igor.github.io/sitemap.xml
